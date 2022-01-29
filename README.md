@@ -7,6 +7,7 @@ The DeepRLGUIMAT is a test tool that aims to generate tests through exploration 
   - TensorFlow 2.2.0
   - UI Automator 0.3.6
   - Android SDK
+  
 *Download the DeepRLGUIMAT.zip available in https://1drv.ms/u/s!Avu7qFzImegrh7FyBW7g0U4lddA9Qw?e=bOunEj
 
 *The tool DeepRLGUIMAT is bundled into executable files to run in Linux. You don't need to install any other python dependency; just downloading all the files will suffice. The application under test may be in the DeepRLGUIMAT folder; the tool will install the app, and it can run in a physical phone connected to a computer or in an Android virtual machine
@@ -32,3 +33,4 @@ The DeepRLGUIMAT is a test tool that aims to generate tests through exploration 
 *Execution:
 - In the DeepRLGUIMAT folder, open the terminal and type ./DeepRLGUIMAT, then Enter, and the tool should execute.
 
+- To run the tool with no input requirements, fill in the settings.txt file on the Requirements:no line. 
