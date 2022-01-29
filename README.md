@@ -21,11 +21,8 @@ The DeepGUIT is a test tool that aims to generate tests through exploration of t
 
 *If you have the input entry requirements(REQUIREMENT:yes), fill the file requirements.csv, example bellow:
 
-- activity	    field	         id	       action	 type	  size_start	size_end	value
-- app activity	button	    id/menu	      click	  none				
-- app activity	edittext	id/NameEdit	    type	  text	    1	          30	   test
-- app activity	edittext	id/valueEdit	  type	  number	  1	           9	    150
-- app activity	button	  id/action_save  click	  none			
+![image](https://user-images.githubusercontent.com/14595529/151639743-fb80751a-47f1-488a-9a45-02e32125d9f8.png)
+
 
 *obs: to collect coverage values, use Jacoco coverage tool (https://www.geeksforgeeks.org/how-to-generate-global-coverage-report-in-android-development-using-jacoco-plugin/)
 
