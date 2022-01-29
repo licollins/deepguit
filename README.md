@@ -16,20 +16,16 @@ The DeepGUIT is a test tool that aims to generate tests through exploration of t
 
 *Fill the settings.txt file such as the example below:
 
-APK NAME:app.apk (or path until apk)
-PACKAGE:app.package.com
-RESOLUTION:1520x720
-COVERAGE:yes
-REQUIREMENT:yes
-TIME:7200
+![image](https://user-images.githubusercontent.com/14595529/151639636-5bcbb00e-8a1e-4cad-9ede-fc3fb44645ec.png)
+
 
 *If you have the input entry requirements(REQUIREMENT:yes), fill the file requirements.csv, example bellow:
 
-activity	    field	         id	       action	 type	  size_start	size_end	value
-app activity	button	    id/menu	      click	  none				
-app activity	edittext	id/NameEdit	    type	  text	    1	          30	   test
-app activity	edittext	id/valueEdit	  type	  number	  1	           9	    150
-app activity	button	  id/action_save  click	  none			
+- activity	    field	         id	       action	 type	  size_start	size_end	value
+- app activity	button	    id/menu	      click	  none				
+- app activity	edittext	id/NameEdit	    type	  text	    1	          30	   test
+- app activity	edittext	id/valueEdit	  type	  number	  1	           9	    150
+- app activity	button	  id/action_save  click	  none			
 
 *obs: to collect coverage values, use Jacoco coverage tool (https://www.geeksforgeeks.org/how-to-generate-global-coverage-report-in-android-development-using-jacoco-plugin/)
 
