@@ -1,6 +1,0 @@
-APK NAME:<app.apk>
-PACKAGE:<app package>
-RESOLUTION:<device screen resolution, ex 1520x720>
-COVERAGE:<yes or no>
-REQUIREMENT:<yes or no>
-TIME:<time in seconds>
