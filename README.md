@@ -30,7 +30,10 @@ The DeepRLGUIMAT is a test tool that aims to generate tests through exploration 
 
 *obs: to collect coverage values, use Jacoco coverage tool (https://www.geeksforgeeks.org/how-to-generate-global-coverage-report-in-android-development-using-jacoco-plugin/)
 
+
 *Execution:
 - In the DeepRLGUIMAT folder, open the terminal and type ./DeepRLGUIMAT, then Enter, and the tool should execute.
 
 - To run the tool with no input requirements, fill in the settings.txt file on the Requirements:no line. 
+
+** To include the reference: Eliane Collins, Arilo Neto, Auri Vincenzi, and José Maldonado. 2021. Deep Reinforcement Learning based Android Application GUI Testing. Brazilian Symposium on Software Engineering. Association for Computing Machinery, New York, NY, USA, 186–194. DOI:https://doi.org/10.1145/3474624.3474634
