@@ -1,8 +1,10 @@
 Experiment Results
 
-We evaluated the tool red=garding code coverage, failures found, crashes found and functional operation coverage in comparison with tooçs Q-testing, DroidbotX, Droidbot and Monkey.
+We evaluated the tool red=garding code coverage, failures found, crashes found and functional operation coverage in comparison with tools:
+Q-testing, DroidbotX, Droidbot and Monkey.
 
 The experiments data and values are available in https://1drv.ms/u/s!Avu7qFzImegrh7J72qMnW6lB7NzXNw?e=6DTo12
+The summary of results are available in https://1drv.ms/x/s!Avu7qFzImegrh7RxNaRqYNVL_ggoUg?e=phAb8V
 
 Experiment Environment
 
