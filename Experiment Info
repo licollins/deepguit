@@ -1,0 +1,13 @@
+Experiment Results
+
+We evaluated the tool red=garding code coverage, failures found, crashes found and functional operation coverage in comparison with tooçs Q-testing, DroidbotX, Droidbot and Monkey.
+
+The experiments data and values are available in https://1drv.ms/u/s!Avu7qFzImegrh7J72qMnW6lB7NzXNw?e=6DTo12
+
+Experiment Environment
+
+- Notebook 64-bit , Ubuntu 18.04.5, Intel Core i7-7600U, CPU 2.70GHz GPU Nvidia GeForce 940MX and RAM 15,2 GB.
+- Smartphone dedicated, model Motorola G8 Plus, Android 9 (API level 28), 4GB memory.
+- 30 mobile applications from the F-Droid open source repository.
+- All the apps were instrumented by the bytecode using the tool JoCoCo
+- 30 Apps tested 4 times for each test tool
