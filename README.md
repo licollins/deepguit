@@ -11,7 +11,7 @@ The DRL-MOBTEST is a test tool that aims to generate tests through exploration o
   
 *Download the DRL-MOBTEST.zip available in https://1drv.ms/u/s!Avu7qFzImegrh7FyBW7g0U4lddA9Qw?e=bOunEj
 
-*The tool DRL-MOBTEST is bundled into executable files to run in Linux. You don't need to install any other python dependency; just downloading all the files will suffice. The application under test may be in the DeepRLGUIMAT folder; the tool will install the app, and it can run in a physical phone connected to a computer or in an Android virtual machine
+*The tool DRL-MOBTEST is bundled into executable files to run in Linux. You don't need to install any other python dependency; just downloading all the files will suffice. The application under test may be in the DRL-MOBTEST folder; the tool will install the app, and it can run in a physical phone connected to a computer or in an Android virtual machine
 
 *Extract the zip file in a folder
 *The structure of the folder is:
